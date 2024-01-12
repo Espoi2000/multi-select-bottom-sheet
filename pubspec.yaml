@@ -1,7 +1,7 @@
 name: multi_select_bottom_sheetsx
 description: A new Flutter plugin project.
 version: 0.0.1
-homepage:
+homepage: https://github.com/Espoi2000/multi-select-bottom-sheet
 
 environment:
   sdk: ">=3.1.3 <4.0.0"
